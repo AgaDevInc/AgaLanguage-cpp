@@ -1,0 +1,3 @@
+[submodule "ComplexMath"]
+	path = ComplexMath
+	url = https://github.com/AgaDevInc/ComplexMath-cpp.git
